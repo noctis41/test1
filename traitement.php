@@ -11,7 +11,7 @@ $nom = $_POST['Nom'];
  
 $message = "$prenom $nom";
  
-$to = 'jolybenjamin@voila.fr';
+$to = 'gairaut.arnaud@laposte.net';
 $objet = "Test" //Met l'objet que tu veux
  
 /* En-têtes de l'e-mail */
